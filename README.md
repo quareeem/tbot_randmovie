@@ -5,7 +5,7 @@ Simple Telegram bot that decides what film you have to watch today
 
 ## Usage
 
-access [Link To Bot](https://web.telegram.org/k/#@movies_tbot)
+Try using bot here: [Link To Bot](https://web.telegram.org/k/#@movies_tbot)
 
 
 ## Installation
