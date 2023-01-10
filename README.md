@@ -1,7 +1,12 @@
-# Foobar
+# tbot_movies
+
+Simple Telegram bot that decides what film you have to watch today
 
 
-Foobar is a Python library for dealing with word pluralization.
+## Usage
+
+access [Link To Bot](https://web.telegram.org/k/#@movies_tbot)
+
 
 ## Installation
 
@@ -11,7 +16,3 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install python
 pip install python-dotenv
 ```
-
-## Usage
-
-access [Link To Bot](https://web.telegram.org/k/#@movies_tbot)
